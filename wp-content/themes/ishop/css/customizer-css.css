@@ -1,0 +1,127 @@
+/* 
+	Theme: iShop 
+    Author: InsertCart.com
+*/
+.wp-full-overlay-sidebar-content a.button::before{
+    content: "\f316";
+    font-family: dashicons;
+    padding: 3px;
+	vertical-align: bottom;}
+li#accordion-section-static_front_page > h3.accordion-section-title:before {
+    content: "\f105";
+    font-family: dashicons;
+	vertical-align: bottom;
+    padding: 3px;
+}
+li#accordion-panel-widgets > h3.accordion-section-title:before {
+    content: "\f479";
+    font-family: dashicons;
+	vertical-align: bottom;
+    padding: 3px;
+}
+li#accordion-panel-nav_menus > h3.accordion-section-title:before {
+   content: "\f214";
+    font-family: dashicons;
+    padding: 3px;
+	vertical-align: bottom;
+}
+li#accordion-section-ishop_navigationtop > h3.accordion-section-title:before {
+    content: "\f212";
+    font-family: dashicons;
+    padding: 3px;
+	vertical-align: bottom;}
+li#accordion-panel-panel_general > h3.accordion-section-title:before {
+    content: "\f107";
+    font-family: dashicons;
+    padding: 3px;
+	vertical-align: bottom;
+}
+li#accordion-panel-ishop_panel_themedesign > h3.accordion-section-title:before {
+    content: "\f540";
+    font-family: dashicons;
+    padding: 3px;
+	vertical-align: bottom;
+}
+li#accordion-panel-ishop_panel_social > h3.accordion-section-title:before {
+    content: "\f242";
+    font-family: dashicons;
+    padding: 3px;
+	vertical-align: bottom;
+}
+li#accordion-panel-ishop_theme_colorcustomize > h3.accordion-section-title:before {
+    content: "\f111";
+    font-family: dashicons;
+    padding: 3px;
+	vertical-align: bottom;
+}
+li#accordion-panel-ishop_slider > h3.accordion-section-title:before {
+    content: "\f105";
+    font-family: dashicons;
+    padding: 3px;
+	vertical-align: bottom;
+}
+li#accordion-section-ishop_responsive > h3.accordion-section-title:before {
+    content: "\f472";
+    font-family: dashicons;
+    padding: 3px;
+	vertical-align: bottom;
+	color: #0073aa;
+}
+
+#accordion-panel-nav_menus > ul{
+    margin-top: -290px !important;
+}
+#accordion-section-ishop_theme_navigation > ul > li.customize-section-description-container > p{
+    color: #f00;
+    
+}
+
+#widgets-right > div > a:nth-child(1):hover{
+    opacity: 0.8;
+ 
+  }
+#widgets-right > div > a:nth-child(1){
+  color: #fff;
+  background: #f78828;
+  border: 1px solid #da7532;
+  background: linear-gradient(to bottom,#f78828 0,#dd771f 100%);
+  font-weight: bold;
+  box-shadow: none;
+}
+#customize-control-custom_css > label > textarea{
+      background-color: #333;
+  color: #fff;
+  font-size: 13px;
+  min-height: 150px;
+}
+
+#accordion-section-ishop_ticker > ul > li.customize-section-description-container > p{
+    
+    color: #f78828;
+}
+
+#customize-control-ishop_dribbble > label > input[type="text"]{
+    
+    display:none;
+}
+#customize-control-ishop_dribbble > label > span{
+    
+        margin-top: 12px;
+    font-weight: bold;
+}
+.proonly,
+li#customize-control-backtopcolor .customize-control-content,
+li#customize-control-backtopcolor,
+li#customize-control-hide_qrcode ,
+li#customize-control-qrcodesetting,
+#customize-control-shoplabel_color > label > div > div > a,
+#customize-control-bloglabel_color > label > div > div > a,
+#customize-control-topnavi_color > label > div > div > a,
+#customize-control-topnavi_hover_color > label > div > div > a,
+#customize-control-topnavi_font_color > label > div > div > a,
+#customize-control-mainnavi_bgcolor > label > div > div > a,
+#customize-control-mainnavi_font_color > label > div > div > a{
+    
+        cursor: not-allowed;
+            opacity: 0.4;
+}

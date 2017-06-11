@@ -1,0 +1,19 @@
+[19-Mar-2017 05:12:35 UTC] PHP Fatal error:  Call to undefined function apply_filters() in /home/giongcaymoi/public_html/wp-includes/load.php on line 316
+[19-Mar-2017 14:11:19 UTC] PHP Warning:  fopen(/home/giongcaymoi/public_html/wp-content/plugins/wpclef/wpclef.php): failed to open stream: No such file or directory in /home/giongcaymoi/public_html/wp-includes/functions.php on line 4783
+[19-Mar-2017 14:11:19 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/giongcaymoi/public_html/wp-includes/functions.php on line 4786
+[19-Mar-2017 14:11:19 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/giongcaymoi/public_html/wp-includes/functions.php on line 4789
+[19-Mar-2017 14:11:19 UTC] PHP Warning:  include(/home/giongcaymoi/public_html/wp-content/plugins/wpclef/wpclef.php): failed to open stream: No such file or directory in /home/giongcaymoi/public_html/wp-admin/includes/plugin.php on line 1026
+[19-Mar-2017 14:11:19 UTC] PHP Warning:  include(): Failed opening '/home/giongcaymoi/public_html/wp-content/plugins/wpclef/wpclef.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/giongcaymoi/public_html/wp-admin/includes/plugin.php on line 1026
+[19-Mar-2017 14:11:19 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'ClefSetup' not found in /home/giongcaymoi/public_html/wp-includes/class-wp-hook.php on line 298
+[19-Mar-2017 14:11:22 UTC] PHP Warning:  fopen(/home/giongcaymoi/public_html/wp-content/plugins/hello.php): failed to open stream: No such file or directory in /home/giongcaymoi/public_html/wp-includes/functions.php on line 4783
+[19-Mar-2017 14:11:22 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/giongcaymoi/public_html/wp-includes/functions.php on line 4786
+[19-Mar-2017 14:11:22 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/giongcaymoi/public_html/wp-includes/functions.php on line 4789
+[19-Mar-2017 14:11:35 UTC] PHP Warning:  fopen(/home/giongcaymoi/public_html/wp-content/plugins/godaddy-email-marketing-sign-up-forms/godaddy-email-marketing.php): failed to open stream: No such file or directory in /home/giongcaymoi/public_html/wp-includes/functions.php on line 4783
+[19-Mar-2017 14:11:35 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/giongcaymoi/public_html/wp-includes/functions.php on line 4786
+[19-Mar-2017 14:11:35 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/giongcaymoi/public_html/wp-includes/functions.php on line 4789
+[28-Mar-2017 07:04:42 UTC] Cơ sở dữ liệu của WordPress gặp lỗi Query execution was interrupted với truy vấn SELECT option_value FROM wp_options WHERE option_name = 'wp-smush-hide_upgrade_notice' LIMIT 1 yêu cầu bởi require_once('wp-admin/admin-header.php'), do_action('admin_enqueue_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, WpSmushitAdmin->enqueue, get_option
+[28-Mar-2017 07:04:42 UTC] Cơ sở dữ liệu của WordPress gặp lỗi Query execution was interrupted với truy vấn SELECT wp_users.ID,wp_users.user_login,wp_users.display_name FROM wp_users INNER JOIN wp_usermeta ON ( wp_users.ID = wp_usermeta.user_id ) WHERE 1=1 AND ( 
+  ( wp_usermeta.meta_key = 'wp_user_level' AND wp_usermeta.meta_value != '0' )
+) ORDER BY display_name ASC  yêu cầu bởi WP_Posts_List_Table->inline_edit, wp_dropdown_users, get_users, WP_User_Query->__construct, WP_User_Query->query
+[28-Mar-2017 07:04:57 UTC] PHP Fatal error:  Call to undefined function get_bloginfo() in /home/giongcaymoi/public_html/wp-includes/class-wp-locale.php on line 233
+[28-Mar-2017 07:04:59 UTC] PHP Fatal error:  Call to undefined function get_bloginfo() in /home/giongcaymoi/public_html/wp-includes/class-wp-locale.php on line 233

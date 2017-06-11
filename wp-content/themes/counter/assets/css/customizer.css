@@ -1,0 +1,15 @@
+.customize-control select,
+.customize-control input[type=range] {
+	width: 100%;
+}
+
+.counter-empty-panel .customize-control:nth-child(n+3),
+.counter-no-bg-panel li[id^='customize-control-panel_bg_repeat_'],
+.counter-no-bg-panel li[id^='customize-control-panel_bg_position_'],
+.counter-no-bg-panel li[id^='customize-control-panel_bg_attachment_'],
+.counter-no-bg-panel li[id^='customize-control-panel_bg_size_type_'],
+.counter-no-bg-panel li[id^='customize-control-panel_bg_size_'],
+.counter-no-bg-panel li[id^='customize-control-panel_bg_opacity_'] {
+	visibility: hidden;
+	position: absolute;
+}

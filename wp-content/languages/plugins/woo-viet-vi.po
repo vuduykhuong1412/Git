@@ -1,0 +1,367 @@
+# Translation of Plugins - Woo Viet - WooCommerce for Vietnam - Stable (latest release) in Vietnamese
+# This file is distributed under the same license as the Plugins - Woo Viet - WooCommerce for Vietnam - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-03-03 12:08:16+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Plugins - Woo Viet - WooCommerce for Vietnam - Stable (latest release)\n"
+
+#: lib/wc-city-select/wc-city-select.php:130
+#: lib/wc-city-select/wc-city-select.php:171
+msgid "Select an option&hellip;"
+msgstr "Select an option&hellip;"
+
+#: lib/wc-city-select/wc-city-select.php:90
+msgid "required"
+msgstr "required"
+
+#: inc/class-wooviet-admin-page.php:103
+msgid "Require \"Add provinces for Vietnam\" active"
+msgstr "Yêu cầu \"Thêm tỉnh thành cho Việt Nam\" đã được lựa chọn"
+
+#: inc/class-wooviet-admin-page.php:102
+msgid "Add districts for Vietnam"
+msgstr "Thêm quận huyện cho Việt Nam"
+
+#: inc/class-wooviet-admin-page.php:62
+msgid "Woo Viet Settings"
+msgstr "Tuỳ chọn cho Woo Viet"
+
+#. Plugin Name of the plugin/theme
+msgid "Woo Viet - WooCommerce for Vietnam"
+msgstr "Woo Viet - WooCommerce for Vietnam"
+
+#. Author URI of the plugin/theme
+msgid "https://profiles.wordpress.org/htdat"
+msgstr "https://profiles.wordpress.org/htdat"
+
+#. Author of the plugin/theme
+msgid "htdat"
+msgstr "htdat"
+
+#. Description of the plugin/theme
+msgid "This plugin provides features and integrations specifically for Vietnam."
+msgstr "Plugin này cung cấp các chức năng và tích hợp riêng cho thị trường Việt Nam."
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/htdat/woo-viet"
+msgstr "https://github.com/htdat/woo-viet"
+
+#: woo-viet.php:91
+msgid "Woo Viet is not running because WooCommerce is not active. Please activate both plugins"
+msgstr "Woo Viet đang không hoạt động vì WooCommerce chưa được kích hoạt. Vui lòng kích hoạt cả hai plugin"
+
+#: inc/class-wooviet-vnd-paypal-standard.php:100
+msgid "The prices will be converted to %1$s in the PayPal pages with the exchange rate %2$s."
+msgstr "Các giá sẽ được chuyển đổi sang %1$s ở trên trang của PayPal với tỷ giá %2$s."
+
+#: inc/class-wooviet-provinces.php:133
+msgid "Yen Bai"
+msgstr "Yên Bái"
+
+#: inc/class-wooviet-provinces.php:132
+msgid "Vinh Phuc"
+msgstr "Vĩnh Phúc"
+
+#: inc/class-wooviet-provinces.php:131
+msgid "Vinh Long"
+msgstr "Vĩnh Long"
+
+#: inc/class-wooviet-provinces.php:130
+msgid "Tuyen Quang"
+msgstr "Tuyên Quang"
+
+#: inc/class-wooviet-provinces.php:129
+msgid "Tra Vinh"
+msgstr "Trà Vinh"
+
+#: inc/class-wooviet-provinces.php:128
+msgid "Tien Giang"
+msgstr "Tiền Giang"
+
+#: inc/class-wooviet-provinces.php:127
+msgid "Thua Thien - Hue"
+msgstr "Thừa Thiên - Huế"
+
+#: inc/class-wooviet-provinces.php:126
+msgid "Thanh Hoa"
+msgstr "Thanh Hóa"
+
+#: inc/class-wooviet-provinces.php:125
+msgid "Thai Nguyen"
+msgstr "Thái Nguyên"
+
+#: inc/class-wooviet-provinces.php:124
+msgid "Thai Binh"
+msgstr "Thái Bình"
+
+#: inc/class-wooviet-provinces.php:123
+msgid "Tay Ninh"
+msgstr "Tây Ninh"
+
+#: inc/class-wooviet-provinces.php:122
+msgid "Son La"
+msgstr "Sơn La"
+
+#: inc/class-wooviet-provinces.php:121
+msgid "Soc Trang"
+msgstr "Sóc Trăng"
+
+#: inc/class-wooviet-provinces.php:120
+msgid "Quang Tri"
+msgstr "Quảng Trị"
+
+#: inc/class-wooviet-provinces.php:119
+msgid "Quang Ninh"
+msgstr "Quảng Ninh"
+
+#: inc/class-wooviet-provinces.php:118
+msgid "Quang Ngai"
+msgstr "Quảng Ngãi"
+
+#: inc/class-wooviet-provinces.php:117
+msgid "Quang Nam"
+msgstr "Quảng Nam"
+
+#: inc/class-wooviet-provinces.php:116
+msgid "Quang Binh"
+msgstr "Quảng Bình"
+
+#: inc/class-wooviet-provinces.php:115
+msgid "Phu Yen"
+msgstr "Phú Yên"
+
+#: inc/class-wooviet-provinces.php:114
+msgid "Phu Tho"
+msgstr "Phú Thọ"
+
+#: inc/class-wooviet-provinces.php:113
+msgid "Ninh Thuan"
+msgstr "Ninh Thuận"
+
+#: inc/class-wooviet-provinces.php:112
+msgid "Ninh Binh"
+msgstr "Ninh Bình"
+
+#: inc/class-wooviet-provinces.php:111
+msgid "Nghe An"
+msgstr "Nghệ An"
+
+#: inc/class-wooviet-provinces.php:110
+msgid "Nam Dinh"
+msgstr "Nam Định"
+
+#: inc/class-wooviet-provinces.php:109
+msgid "Long An"
+msgstr "Long An"
+
+#: inc/class-wooviet-provinces.php:108
+msgid "Lam Dong"
+msgstr "Lâm Đồng"
+
+#: inc/class-wooviet-provinces.php:107
+msgid "Lang Son"
+msgstr "Lạng Sơn"
+
+#: inc/class-wooviet-provinces.php:106
+msgid "Lao Cai"
+msgstr "Lào Cai"
+
+#: inc/class-wooviet-provinces.php:105
+msgid "Lai Chau"
+msgstr "Lai Châu"
+
+#: inc/class-wooviet-provinces.php:104
+msgid "Kon Tum"
+msgstr "Kon Tum"
+
+#: inc/class-wooviet-provinces.php:103
+msgid "Kien Giang"
+msgstr "Kiên Giang"
+
+#: inc/class-wooviet-provinces.php:102
+msgid "Khanh Hoa"
+msgstr "Khánh Hòa"
+
+#: inc/class-wooviet-provinces.php:101
+msgid "Ho Chi Minh"
+msgstr "Hồ Chí Minh"
+
+#: inc/class-wooviet-provinces.php:100
+msgid "Hung Yen"
+msgstr "Hưng Yên"
+
+#: inc/class-wooviet-provinces.php:99
+msgid "Hau Giang"
+msgstr "Hậu Giang"
+
+#: inc/class-wooviet-provinces.php:98
+msgid "Hoa Binh"
+msgstr "Hòa Bình"
+
+#: inc/class-wooviet-provinces.php:97
+msgid "Hai Phong"
+msgstr "Hải Phòng"
+
+#: inc/class-wooviet-provinces.php:96
+msgid "Hai Duong"
+msgstr "Hải Dương"
+
+#: inc/class-wooviet-provinces.php:95
+msgid "Ha Tinh"
+msgstr "Hà Tĩnh"
+
+#: inc/class-wooviet-provinces.php:94
+msgid "Ha Noi"
+msgstr "Hà Nội"
+
+#: inc/class-wooviet-provinces.php:93
+msgid "Ha Nam"
+msgstr "Hà Nam"
+
+#: inc/class-wooviet-provinces.php:92
+msgid "Ha Giang"
+msgstr "Hà Giang"
+
+#: inc/class-wooviet-provinces.php:91
+msgid "Gia Lai"
+msgstr "Gia Lai"
+
+#: inc/class-wooviet-provinces.php:90
+msgid "Dien Bien"
+msgstr "Điện Biên"
+
+#: inc/class-wooviet-provinces.php:89
+msgid "Dong Thap"
+msgstr "Đồng Tháp"
+
+#: inc/class-wooviet-provinces.php:88
+msgid "Dong Nai"
+msgstr "Đồng Nai"
+
+#: inc/class-wooviet-provinces.php:87
+msgid "Dak Nong"
+msgstr "Đắk Nông"
+
+#: inc/class-wooviet-provinces.php:86
+msgid "Dak Lak"
+msgstr "Đắk Lắk"
+
+#: inc/class-wooviet-provinces.php:85
+msgid "Da Nang"
+msgstr "Đà Nẵng"
+
+#: inc/class-wooviet-provinces.php:84
+msgid "Can Tho"
+msgstr "Cần Thơ"
+
+#: inc/class-wooviet-provinces.php:83
+msgid "Cao Bang"
+msgstr "Cao Bằng"
+
+#: inc/class-wooviet-provinces.php:82
+msgid "Ca Mau"
+msgstr "Cà Mau"
+
+#: inc/class-wooviet-provinces.php:81
+msgid "Binh Thuan"
+msgstr "Bình Thuận"
+
+#: inc/class-wooviet-provinces.php:80
+msgid "Binh Phuoc"
+msgstr "Bình Phước"
+
+#: inc/class-wooviet-provinces.php:79
+msgid "Binh Dinh"
+msgstr "Bình Định"
+
+#: inc/class-wooviet-provinces.php:78
+msgid "Binh Duong"
+msgstr "Bình Dương"
+
+#: inc/class-wooviet-provinces.php:77
+msgid "Ben Tre"
+msgstr "Bến Tre"
+
+#: inc/class-wooviet-provinces.php:76
+msgid "Bac Ninh"
+msgstr "Bắc Ninh"
+
+#: inc/class-wooviet-provinces.php:75
+msgid "Bac Giang"
+msgstr "Bắc Giang"
+
+#: inc/class-wooviet-provinces.php:74
+msgid "Bac Kan"
+msgstr "Bắc Kạn"
+
+#: inc/class-wooviet-provinces.php:73
+msgid "Bac Lieu"
+msgstr "Bạc Liêu"
+
+#: inc/class-wooviet-provinces.php:72
+msgid "Ba Ria - Vung Tau"
+msgstr "Bà Rịa - Vũng Tàu"
+
+#: inc/class-wooviet-provinces.php:71
+msgid "An Giang"
+msgstr "An Giang"
+
+#: inc/class-wooviet-provinces.php:52
+msgid "District"
+msgstr "Quận huyện"
+
+#: inc/class-wooviet-provinces.php:49
+msgid "Province"
+msgstr "Tỉnh thành"
+
+#: inc/class-wooviet-admin-page.php:209
+msgid "Insert the exchange rate of this currency to VND"
+msgstr "Điền tỷ giá của đồng tiền này đối với VND"
+
+#: inc/class-wooviet-admin-page.php:202
+msgid "Select a PayPal supported currency (like USD, EUR, etc), which is used to convert VND prices"
+msgstr "Chọn một tiền tệ được PayPal hỗ trợ (như USD, EUR, v.v), loại tiền này sẽ được sử dụng để chuyển đổi từ các giá cả VND"
+
+#: inc/class-wooviet-admin-page.php:150
+msgid "Support VND for <a href=\"%s\">the PayPal Standard gateway</a>"
+msgstr "Hỗ trợ VND cho <a href=\"%s\">cổng thanh toán PayPal Standard</a>"
+
+#: inc/class-wooviet-admin-page.php:144
+msgid "Choose what you want to change. E.g:"
+msgstr "Lựa chọn chữ mà bạn muốn thay đổi. Ví dụ:"
+
+#: inc/class-wooviet-admin-page.php:131
+msgid "Convert <code>000</code> of prices to K (or anything)"
+msgstr "Chuyển đổi các số <code>000</code> trong giá thành K (hoặc bất kỳ chữ nào khác)"
+
+#: inc/class-wooviet-admin-page.php:127
+msgid "Insert a text to change the default symbol <code>đ</code>"
+msgstr "Chọn một chữ để thay đổi cho ký hiệu mặc định <code>đ</code>"
+
+#: inc/class-wooviet-admin-page.php:114
+msgid "Change VND currency symbol"
+msgstr "Thay đổi ký hiệu của đồng tiền VND"
+
+#: inc/class-wooviet-admin-page.php:98 inc/class-wooviet-admin-page.php:110
+#: inc/class-wooviet-admin-page.php:121 inc/class-wooviet-admin-page.php:138
+#: inc/class-wooviet-admin-page.php:157
+msgid "Enabled"
+msgstr "Bật"
+
+#: inc/class-wooviet-admin-page.php:92
+msgid "Add provinces for Vietnam"
+msgstr "Thêm tỉnh thành cho Việt Nam"
+
+#: inc/class-wooviet-admin-page.php:50
+msgid "Can not save settings! Please refresh this page."
+msgstr "Không thể lưu các tuỳ chọn! Vui lòng refresh lại trang này."
+
+#: inc/class-wooviet-admin-page.php:43
+msgid "Settings saved"
+msgstr "Các tuỳ chọn đã được lưu"
